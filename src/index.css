@@ -1,0 +1,6 @@
+/* import tailwindcss */
+/*! @import */  /* fix Chrome DevTools issue */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind screens;
