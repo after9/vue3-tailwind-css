@@ -1,3 +1,10 @@
+
+/**
+* @desc preset for tailwind css
+* @author Ron Zhou
+* @date 2021/08/25
+*/
+
 const colors = require('tailwindcss/colors')
 
 module.exports = {
