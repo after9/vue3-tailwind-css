@@ -1,6 +1,6 @@
 <template>
   <!-- <img alt="Vue logo" src="./assets/logo.png" class="mx-auto" /> -->
-  <UIElement msg="Vue3-Tailwind-CSS UI Elements" />
+  <UIElement msg="Vue3-Tailwind-CSS UI Elements ------" />
 </template>
 
 <script setup>
